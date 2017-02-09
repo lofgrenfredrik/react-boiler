@@ -1,1 +1,1 @@
-# React - Boilerplates
+# React-redux - Boilerplate
